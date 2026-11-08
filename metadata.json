@@ -1,0 +1,6 @@
+{
+  "name": "Pulsesaves De&Recoder",
+  "description": "Universal save file editor supporting all Base64 variants and .pctsave files tailored for Silicon Empire with real-time tree and raw editors, integrity verification, and cross-platform synchronization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
